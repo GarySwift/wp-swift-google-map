@@ -1,0 +1,43 @@
+[
+    {
+        "key": "group_58b53ef2b3176",
+        "title": "Google Map",
+        "fields": [
+            {
+                "key": "field_58b5464b3d00a",
+                "label": "Map",
+                "name": "map",
+                "type": "google_map",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "center_lat": "52.259320",
+                "center_lng": "-7.110070",
+                "zoom": 16,
+                "height": ""
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "options_page",
+                    "operator": "==",
+                    "value": "wp-swift-acf-google-map"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "normal",
+        "style": "seamless",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]
