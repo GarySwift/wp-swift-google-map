@@ -1,13 +1,8 @@
-WP Swift: ACF Google Map
+# WP Swift: ACF Google Map
 
- * @link              https://github.com/GarySwift
- * @since             1.0.0
- * @package           Wp_Swift_Google_Map
- *
- * @wordpress-plugin
  * Plugin Name:       WP Swift: ACF Google Map
  * Plugin URI:        https://github.com/GarySwift/wp-swift-google-map
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This will allow users set a location on a google map via an ACF interface and show the map using a shortcode
  * Version:           1.0.0
  * Author:            Gary
  * Author URI:        https://github.com/GarySwift
