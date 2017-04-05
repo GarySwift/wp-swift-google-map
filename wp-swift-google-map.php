@@ -14,7 +14,7 @@
  * @wordpress-plugin
  * Plugin Name:       WP Swift: ACF Google Map
  * Plugin URI:        https://github.com/GarySwift/wp-swift-google-map
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Allows users to select a location on a Google map which can used globally. You must set an API key to use Google maps.
  * Version:           1.0.0
  * Author:            Gary
  * Author URI:        https://github.com/GarySwift
